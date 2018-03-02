@@ -1,14 +1,21 @@
+body {
+
+  background-color: black;
+}
+
+
+
 h1 {
 font-family: veranda;
 font-weight: normal;
 font-size: 50px;
 color: white;
-align-items: center;
-
+text-align: center;
 }
 
 h2 {
 color: aquamarine;
 font-size: 16px;
+text-align: center;
 
 }

@@ -1,21 +1,51 @@
 body {
 
   background-color: black;
+  text-align: center;
 }
 
 
 
 h1 {
-font-family: veranda;
+font-family: verdana;
 font-weight: normal;
 font-size: 50px;
 color: white;
 text-align: center;
 }
 
-h2 {
+a {
 color: aquamarine;
 font-size: 16px;
 text-align: center;
+
+}
+
+video {
+  text-align: center;
+
+
+
+}
+h3 {
+color: white;
+font-family: verdana;
+font-weight: 300;
+font-size: 42px;
+
+}
+
+h4 {
+color: grey;
+font-family: verdana;
+font-size: 21px;
+
+}
+
+h5 {
+  color: white;
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
 
 }
